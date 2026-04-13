@@ -1,1 +1,5 @@
+.worktrees/
 main.parameters.json
+infra/parameters/*.local.bicepparam
+infra/main.json
+infra/parameters/*.json
